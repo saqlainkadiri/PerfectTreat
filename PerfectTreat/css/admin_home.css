@@ -1,0 +1,36 @@
+h4 {
+    margin-left: 35%;
+}
+#user{
+    width: 40%;
+    height: 5%;
+    margin-top: 2%;
+    margin-left: 35%;
+}
+#addbalancebtn{
+    -webkit-appearance: none;
+    background: #92c100;
+    border: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0;
+    overflow: visible;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 25%;
+    margin-top: 2%;
+    height: 5%;
+    margin-left: 35%;
+}
+#balance {
+    width: 25%;
+    height: 5%;
+    margin-top: 2%;
+    text-align: center;
+    margin-left: 35%;
+
+}

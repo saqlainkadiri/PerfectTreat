@@ -1,0 +1,39 @@
+#basket_table{
+    margin: 5% 5% 5% 20%;
+    border: solid 6px;
+    background-color: yellow;
+}
+h2{
+    margin-left: 20%
+}
+#basket_table td{
+    background-color: palegreen;
+    border: solid;
+    padding: 2% 2% 2% 2%;
+    width:110px;
+    text-align: center;
+}
+#basket_table th{
+    background-color: limegreen;
+    border: solid;
+    padding: 3% 3% 3% 3%;
+}
+#Checkout{
+    -webkit-appearance: none;
+    background: #92c100;
+    border: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0;
+    overflow: visible;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 25%;
+    height: 5%;
+    margin-left: 40%;
+}
+

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Login</title>
+    <link rel="stylesheet" type="text/css" href="../css/style_signin_login.css">
+    <script type="text/javascript" src="../js/jquery.js"></script>
+    <script src="../js/jquery-1.8.3.min.js"></script>
+</head>
+<body>
+<h2 align="center">Admin Login Form</h2>
+<form action="../php/perfect_admin.php" method="post" style="border:1px solid #ccc">
+    <div class="container">
+        <label><b>Adminname</b></label>
+        <input type="text" placeholder="Enter Adminname" name="adminname" required>
+        <br/><br/>
+        <label><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="password" required>
+        <br/><br/>
+        <div class="clearfix">
+            <button type="reset" name="reset" id="cancelbtn" onclick="alert('Cancel Clicked !');">Cancel</button>
+            <button type="submit" name="submit" id="loginbtn">Login</button>
+        </div>
+    </div>
+</form>
+</body>
+</html>

@@ -1,0 +1,30 @@
+/* START OF Change the font/size/color of the Slider Titles */
+/* Change Slider Titles (2em) font-size, (Garamond) family, (red) color */
+/* Title text */
+.carousel-caption h3 {
+    font-family:    Garamond;
+    font-size:      3em;
+    color:          black !important;
+}
+/* Description text */
+.carousel-caption p {
+    font-family:    Garamond;
+    font-size:      2em;
+    color:          black !important;
+}
+/* Button text */
+.carousel-caption .btn {
+    font-family:    Garamond;
+    font-size:      1em;
+    color:          yellow;
+}
+/* END OF Change the font/size/color of the Slider Titles */
+#offer_content{
+    width: 50%;
+}
+.container{
+    width:100%;
+}
+h2{
+    text-align:center;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="../css/style_signin_login.css">
+    <script type="text/javascript" src="../js/jquery.js"></script>
+</head>
+<body>
+
+<h2 align="center">Login Form</h2>
+
+<form action="../php/login.php" method="post" style="border:1px solid #ccc">
+    <div class="container">
+        <label><b>Username</b></label>
+        <input type="text" placeholder="Enter Username" name="username" required>
+        <br/><br/>
+        <label><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="password" required>
+        <br/><br/>
+        <div class="clearfix">
+            <button type="reset" name="reset" id="cancelbtn" onclick="alert('Cancel Clicked !');">Cancel</button>
+            <button type="submit" name="submit" id="loginbtn">Login</button>
+        </div>
+        <p align="center"><b>Not Yet Registered ? <a href="signup.html">SignUp</a> for free !</b></p>
+        <p align="center"><b><a href="perfect_admin.html">Click Here</a> for Admin login.</b></p>
+    </div>
+</form>
+</body>
+</html>

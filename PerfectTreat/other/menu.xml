@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="menustyle.xsl"?>
+<foodshop>
+    <food>
+        <id>01</id>
+        <name>Kaju Katli</name>
+        <price>800/per kg</price>
+    </food>
+    <food>
+        <id>02</id>
+        <name>Malai Barfi</name>
+        <price>640/per kg</price>
+    </food>
+    <food>
+        <id>03</id>
+        <name>Coco Barfi</name>
+        <price>380/per kg</price>
+    </food>
+    <food>
+        <id>04</id>
+        <name>Besan Barfi</name>
+        <price>440/per kg</price>
+    </food>
+    <food>
+        <id>05</id>
+        <name>Khopra Pak</name>
+        <price>380/per kg</price>
+    </food>
+    <food>
+        <id>06</id>
+        <name>Gulab Jamun</name>
+        <price>300/per kg</price>
+    </food>
+    <food>
+        <id>07</id>
+        <name>Jalebi</name>
+        <price>250/per kg</price>
+    </food>
+    <food>
+        <id>08</id>
+        <name>Ras Malai</name>
+        <price>450/per kg</price>
+    </food>
+    <food>
+        <id>09</id>
+        <name>Laddu</name>
+        <price>350/per kg</price>
+    </food>
+    <food>
+        <id>10</id>
+        <name>Anjeer Katli</name>
+        <price>960/per kg</price>
+    </food>
+    <food>
+        <id>11</id>
+        <name>Kesar Katli</name>
+        <price>960/per kg</price>
+    </food>
+    <food>
+        <id>12</id>
+        <name>Badam Katli</name>
+        <price>1000/per kg</price>
+    </food>
+</foodshop>

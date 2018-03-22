@@ -1,0 +1,47 @@
+[
+  {
+    "name":"Kaju Katli",
+    "shortname":"Kaju_Katli",
+    "bio":"Contains no added fat (except the whole lot that you get from the nuts but then the nut fat is supposed to be better than ghee/butter/oil) but loads of sugar and calories."
+  },
+  {
+    "name":"Malai Barfi",
+    "shortname":"Malai_Barfi",
+    "bio":"Malai Barfi is an exotic taste of India that tempts you to gulp it once you taste it. The awesome dessert is eye pleasing with its white colour. The base component being milk products, Malai barfi is a complete nutritious food.The fabulous barfi is made with premium quality sugar and chenna (curdled milk)."
+  },
+  {
+    "name":"Coco Barfi",
+    "shortname":"Coco_Barfi",
+    "bio":"With the richness of milk and chocolate, this special barfi is a healthy dish. Barfis are popular in India from very ancient times. Many variations of these awesome sweet has evolved as years passed. Coco is a readily available ingredient that adds flavour and colour to the barfi."
+  },
+  {
+    "name":"Besan Barfi",
+    "shortname":"Besan_Barfi",
+    "bio":"Besan Barfi- buttery, sugar-coated blocks of magic, is the most popular sweet during festivals in North India. Made with roasted Besan, butter and sugar, this comes under the category of light dessert, as it can be multiple times in a day."
+  },
+  {
+    "name":"Khopra Pak",
+    "shortname":"Khopra_Pak",
+    "bio":"The magnificent taste of Khopra Pak makes it one of a kind. With the richness of coconut and mawa, it is an extra ordinary dish. Khopra Pak preparation neither need a lot of time nor need too many ingredients."
+  },
+  {
+    "name":"Gulab Jamun",
+    "shortname":"Gulab_Jamun",
+    "bio":"Gulab Jamun is a popular Indian dessert made with fried dough and milk. Rolled into balls, the dough is then chilled in sugar syrup."
+  },
+  {
+    "name":"Jalebi",
+    "shortname":"Jalebi",
+    "bio":"Keeping with the trend of deep-fried goodness, jalebi is also fried wheat flour (twisted into swirls or pretzel shapes) and dipped in sugar syrup. It gets its bright orange colour from food colouring."
+  },
+  {
+    "name":"Ras Malai",
+    "shortname":"Ras_Malai",
+    "bio":"Ras malai is usually made with powdered milk, eggs and flour, then moulded into balls and served with sugar, cream and milk."
+  },
+  {
+    "name":"Laddu",
+    "shortname":"Laddu",
+    "bio":"Laddo is a ball-shaped dessert that is made from flour and sugar. They come in different colours, including yellow and orange."
+  }
+]

@@ -1,0 +1,45 @@
+.track {
+    width: 35%;
+    height: 15%;
+    text-align: center;
+    float: left;
+    padding-bottom: 2%;
+}
+#track_demo{
+    margin-left: 2%;
+    display: inline-block;
+}
+.tracktick{
+    width:10%;
+    height: 10%;
+    float: left;
+    padding-left: 2%;
+    display: none;
+}
+#trackmain{
+    padding-left: 40%;
+}
+.track_clear {
+    clear: both;
+}
+.img_track{
+    width: 80%;
+    height: 80%;
+}
+#lastcheck{
+    -webkit-appearance: none;
+    background: #92c100;
+    border: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0;
+    overflow: visible;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 35%;
+    padding: 2%;
+}

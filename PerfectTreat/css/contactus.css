@@ -1,0 +1,132 @@
+#mainContent h1#pageID {
+	color: #193742;
+	font-weight: bold;
+	padding-bottom: .25em;
+	border-bottom: 2px solid #193742;
+}
+#mainContent #mainArticle {
+	position: relative;
+}
+#mainContent #mainArticle h2 {
+	clear: both;
+}
+#mainContent #mainArticle p.option{
+	font-style: italic;
+	color: #999;
+	font-weight: bold;
+	text-align: right;
+	font-size: 1.2em;
+	margin-top: -.6em;
+}
+#mainContent #mainArticle ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#mainContent #mainArticle ul ul{
+	margin: 1.4em 0 1em 0;
+}
+#mainContent #mainArticle li {
+	margin: 0 0 1.2em 2.4em;
+	padding: 0 0 0 24px;
+	font-size: 1em;
+	color: #51341a;
+}
+#mainContent #mainArticle li li{
+	font-size: 100%;
+	margin-bottom: .7em;
+}
+#mainContent ul {
+	margin: 0 .5em 1.5em;
+	padding: 0 25px 0;
+}
+#mainContent li {
+	font-size: 1em;
+	margin-bottom:.75em;
+	color: #333;
+}
+#mainContent form {
+	font: normal .9em Arial, Helvetica, sans-serif;
+	color: #193742;
+}
+#mainContent fieldset {
+	padding: 40px 20px  0 0;
+	margin: 0 0 2em;
+	background-color: #e1d8b9;
+	border: none;
+	position: relative;
+	float: left;
+}
+#mainContent fieldset legend {
+	padding: 0;
+	margin: 0;
+	color: #51341a;
+}
+#mainContent legend strong {
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 10px;
+	font-size: 1.2em;
+}
+#mainContent #mainArticle form p {
+	color: #193742;
+	margin: 0 0 20px 20px;
+}
+#mainContent #mainArticle form p.subHead {
+	margin: 0 0 0 20px;
+	clear: both;
+}
+#mainContent #mainArticle form label.subHead {
+	display: block;
+	float: none;
+	margin: 0;
+	width: auto;
+}
+#mainContent form label{
+	width: 100px;
+	float: left;
+	clear: left;
+	margin-right: .75em;
+}
+#mainContent form label.inline {
+	width: auto;
+	float: none;
+}
+#mainContent #mainArticle form ol{
+	list-style:none;
+	margin: 0;
+	padding: 0;
+}
+#mainContent #mainArticle form li {
+	background: none;
+	margin: 0;
+	padding: 0;
+}
+/* contact form */
+#mainContent form#frmContact input.text {
+	width: 250px;
+}
+
+#mainContent form#frmContact fieldset {
+	width: 580px;
+}
+
+#mainContent form#frmContact .col1 {
+	float: left;
+	padding-left: 20px;
+	margin-right: 20px;
+	width: 160px;
+}
+#mainContent form#frmContact .col2, #mainContent form#frmContact .col3 {
+	float: left;
+	margin-right: 20px;
+	width: 170px;
+}
+#mainContent form#frmContact div p {
+	margin: 0 0 .5em 0;
+}
+#mainContent form#frmContact div label {
+	font-size: .9em;
+	display: inline;
+	float: none;
+}
