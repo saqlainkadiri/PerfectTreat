@@ -4,62 +4,62 @@ Sweet Shop Website using PHP
 
 ## Technologies Used
 
-1.HTML
+1. HTML
 
-2.CSS
+2. CSS
 
-3.Javascript
+3. Javascript
 
-4.jQuery
+4. jQuery
 
-5.PHP
+5. PHP
 
-6.MySQL
+6. MySQL
 
-7.XML
+7. XML
 
-8.MySQL
+8. MySQL
 
 
 ## Main Features
 
-1.Sending Email in Contact Form (using PHPMailer)
+1. Sending Email in Contact Form (using PHPMailer)
 
-2.SMS on Order Booking (using Twilio)
+2. SMS on Order Booking (using Twilio SMS Api)
 
-3.Live Search on JSON Data File using jQuery
+3. Live Search on JSON Data File using jQuery
 
-4.Rating System
+4. Rating System
 
-5.Animation while Adding to Shopping Cart 
+5. Animation while Adding to Shopping Cart 
 
-6.Carousel for Offers
+6. Carousel for Offers
 
-7.Separate User and Admin Dashboard
+7. Separate User and Admin Dashboard
 
-8.Admin Functionality for adding balance to PerfectTreat Card.
+8. Admin Functionality for adding balance to PerfectTreat Card.
 
 ## Steps of Installation 
 
-1.Download or Clone "PerfectTreat" from here.
+1. Download or Clone "PerfectTreat" from here.
 
-2.Verify and Enter your database username and password at "PerfectTreat/php/db_connection.php".
+2. Verify and Enter your database username and password at "PerfectTreat/php/db_connection.php".
 
-3.Create a database "theperfecttreat" and import the database from "database/theperfecttreat.sql".
+3. Create a database "theperfecttreat" and import the database from "database/theperfecttreat.sql".
 
-4.Make a Twilio account to get Account SID, Auth Token and Twilio Mobile Number and substitute them in the placeholders at "PerfectTreat/php/tracking.php".
+4. Make a Twilio account to get Account SID, Auth Token and Twilio Mobile Number and substitute them in the placeholders at "PerfectTreat/php/tracking.php".
 
-5.Place "cacert.pem" inside any directory inside C drive.
+5. Place "cacert.pem" inside any directory inside C drive.
 
-6.Open php.ini and uncomment the line "curl.cainfo = " by removing the semicolon at the start of the line.
+6. Open php.ini and uncomment the line "curl.cainfo = " by removing the semicolon at the start of the line.
 
-7.Update curl.cainfo="C:/path/of/file/cacert.pem" and restart WAMP/XAMPP.
+7. Update curl.cainfo="C:/path/of/file/cacert.pem" and restart WAMP/XAMPP.
 
-8.Substitute your Gmail account credentials and Contact Queries receiving Email Address in the placeholders at "PerfectTreat/php/contact_us.php".
+8. Substitute your Gmail account credentials and Contact Queries receiving Email Address in the placeholders at "PerfectTreat/php/contact_us.php".
 
-9.Allow use of less secured apps in the Settings Panel of your Gmail Account (just in case Sending Emails is not working).
+9. Allow use of less secured apps in the Settings Panel of your Gmail Account (just in case Sending Emails is not working).
 
-10.Get the Google Map API Key from google and substitute it in the placeholder at “PerfectTreat/php/findus.php”. 
+10. Get the Google Map API Key from google and substitute it in the placeholder at “PerfectTreat/php/findus.php”. 
 
 ## NOTE 
 
